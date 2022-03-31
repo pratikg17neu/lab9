@@ -1,0 +1,26 @@
+{
+  "name": "contact-api",
+  "version": "1.0.0",
+  "description": "APIs available in this service",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/lecture-9-lab-pratikg17neu.git"
+  },
+  "author": "Pratik Gawand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/lecture-9-lab-pratikg17neu/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/lecture-9-lab-pratikg17neu#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  }
+}
